@@ -1,0 +1,16 @@
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\bin\Debug\net5.0\Aula1jogo.exe
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\bin\Debug\net5.0\Aula1jogo.deps.json
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\bin\Debug\net5.0\Aula1jogo.runtimeconfig.json
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\bin\Debug\net5.0\Aula1jogo.runtimeconfig.dev.json
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\bin\Debug\net5.0\Aula1jogo.dll
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\bin\Debug\net5.0\Aula1jogo.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.AssemblyInfoInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.AssemblyInfo.cs
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.dll
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\refint\Aula1jogo.dll
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\Aula1jogo.genruntimeconfig.cache
+C:\Users\renan\OneDrive\Área de Trabalho\castGroup\aula1\CSharpBasico\Aula1jogo\obj\Debug\net5.0\ref\Aula1jogo.dll
